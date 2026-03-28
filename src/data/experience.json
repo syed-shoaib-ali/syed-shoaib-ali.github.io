@@ -1,0 +1,31 @@
+[
+  {
+    "id": "mindshare-solutions",
+    "role": "Lead Application Engineer",
+    "company": "Mindshare Solutions",
+    "companyUrl": "https://mindsharesolution.com",
+    "location": "DHA, Phase 6, Lahore PK",
+    "startDate": "Sep 2024",
+    "endDate": "Present",
+    "description": "Led end-to-end development of mobile and web applications, focusing on scalable architecture, clean code, and high-quality user experience. Managed full project cycles from planning to deployment, implemented modern engineering practices, and delivered performance-optimized solutions for clients across different industries. Collaborated closely with stakeholders to define requirements, improve product workflows, and ensure reliable, maintainable software.",
+    "highlights": [],
+    "technologies": []
+  },
+  {
+    "id": "freelance-lead",
+    "role": "Lead Mobile App Developer",
+    "company": "Freelance (Fiverr)",
+    "companyUrl": "https://fiverr.com/syyedshoaib",
+    "location": "Remote",
+    "startDate": "2020",
+    "endDate": "Present",
+    "description": "Leading a skilled development team delivering end-to-end mobile and web solutions for clients worldwide. Specializing in cross-platform applications with focus on quality, performance, and user experience.",
+    "highlights": [
+      "Delivered 50+ projects across iOS, Android, and Web platforms",
+      "Led a team of developers providing full-stack solutions",
+      "Maintained high client satisfaction with repeat business",
+      "End-to-end delivery: UI/UX design, API integration, testing, deployment"
+    ],
+    "technologies": ["React Native", "Flutter", "Swift", "Kotlin", "React", "Next.js", "Node.js"]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "project-1",
+    "title": "Cross-Platform E-Commerce App",
+    "description": "Full-featured e-commerce application built with React Native, supporting iOS and Android with real-time inventory management and secure payment processing.",
+    "image": "/projects/placeholder.svg",
+    "technologies": ["React Native", "Node.js", "MongoDB", "Stripe"],
+    "category": "Mobile App",
+    "featured": true,
+    "liveUrl": "",
+    "githubUrl": ""
+  },
+  {
+    "id": "project-2",
+    "title": "Healthcare Management Platform",
+    "description": "A comprehensive web and mobile platform for healthcare providers to manage appointments, patient records, and telemedicine consultations.",
+    "image": "/projects/placeholder.svg",
+    "technologies": ["Flutter", "Firebase", "Express.js", "PostgreSQL"],
+    "category": "Full Stack",
+    "featured": true,
+    "liveUrl": "",
+    "githubUrl": ""
+  },
+  {
+    "id": "project-3",
+    "title": "Real Estate Listing App",
+    "description": "Feature-rich real estate app with interactive maps, virtual tours, and AI-powered property recommendations for buyers and agents.",
+    "image": "/projects/placeholder.svg",
+    "technologies": ["Swift", "Kotlin", "Google Maps API", "TensorFlow Lite"],
+    "category": "Mobile App",
+    "featured": true,
+    "liveUrl": "",
+    "githubUrl": ""
+  },
+  {
+    "id": "project-4",
+    "title": "SaaS Dashboard & Analytics",
+    "description": "Modern analytics dashboard with real-time data visualization, role-based access control, and automated reporting for business intelligence.",
+    "image": "/projects/placeholder.svg",
+    "technologies": ["Next.js", "TypeScript", "D3.js", "Tailwind CSS"],
+    "category": "Web App",
+    "featured": false,
+    "liveUrl": "",
+    "githubUrl": ""
+  }
+]
