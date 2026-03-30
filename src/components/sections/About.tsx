@@ -1,7 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { FiDownload, FiGlobe } from "react-icons/fi";
+import { FiGlobe } from "react-icons/fi";
 import SectionHeading from "../ui/SectionHeading";
 import personal from "@/data/personal.json";
 
@@ -35,15 +35,8 @@ export default function About() {
             </div>
             <div className="flex flex-wrap gap-4">
               <a
-                href={personal.resumeUrl}
-                className="inline-flex items-center gap-2 px-6 py-3 bg-gradient-to-r from-emerald-500 to-cyan-400 text-white rounded-full font-medium hover:shadow-lg hover:shadow-emerald-500/25 transition-all hover:-translate-y-0.5"
-              >
-                <FiDownload className="w-4 h-4" />
-                Download Resume
-              </a>
-              <a
                 href="#contact"
-                className="inline-flex items-center gap-2 px-6 py-3 border border-gray-300 dark:border-gray-600 text-gray-700 dark:text-gray-300 rounded-full font-medium hover:bg-gray-100 dark:hover:bg-gray-800 transition-all"
+                className="inline-flex items-center gap-2 px-6 py-3 bg-gradient-to-r from-emerald-500 to-cyan-400 text-white rounded-full font-medium hover:shadow-lg hover:shadow-emerald-500/25 transition-all hover:-translate-y-0.5"
               >
                 Get in Touch
               </a>
