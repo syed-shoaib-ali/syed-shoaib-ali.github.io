@@ -12,6 +12,30 @@
     "technologies": []
   },
   {
+    "id": "us-client-remote",
+    "role": "Mobile Application Engineer",
+    "company": "Confidential (US Client)",
+    "companyUrl": "",
+    "location": "Remote",
+    "startDate": "2022",
+    "endDate": "2023",
+    "description": "Worked remotely for a US-based client, managing and delivering mobile applications for their end clients. Handled the full development lifecycle of multiple mobile projects, ensuring quality and timely delivery.",
+    "highlights": [],
+    "technologies": ["React Native"]
+  },
+  {
+    "id": "thefirstsol",
+    "role": "React Native Engineer → Mobile Team Lead",
+    "company": "TheFirstSol",
+    "companyUrl": "",
+    "location": "",
+    "startDate": "2020",
+    "endDate": "2022",
+    "description": "Joined as a React Native engineer developing mobile applications. After a year, promoted to manage the mobile development team — overseeing project delivery, code reviews, and team coordination.",
+    "highlights": [],
+    "technologies": ["React Native"]
+  },
+  {
     "id": "freelance-lead",
     "role": "Lead Mobile App Developer",
     "company": "Freelance (Fiverr)",
